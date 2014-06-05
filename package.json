@@ -1,0 +1,26 @@
+{
+  "name": "cross-mash",
+  "version": "0.0.0",
+  "description": "Create a single object from an array of objects based on specified usage keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wankdanker/node-cross-mash"
+  },
+  "keywords": [
+    "array",
+    "object",
+    "mash",
+    "create",
+    "single"
+  ],
+  "author": "Dan VerWeire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wankdanker/node-cross-mash/issues"
+  },
+  "homepage": "https://github.com/wankdanker/node-cross-mash"
+}
