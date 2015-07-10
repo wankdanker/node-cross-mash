@@ -1,6 +1,6 @@
 {
   "name": "crossmash",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Create a single object from an array of objects based on specified usage keys",
   "main": "index.js",
   "scripts": {
